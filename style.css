@@ -68,7 +68,6 @@ a {
   }
   .reveal-image-text {
     font-size: 48px;
-    text-shadow: 3.2px 3.2px 0px rgba(255,255,255,0.4);
   }
   .reveal-image-caption {
     font-size: 19.2px;
@@ -266,7 +265,6 @@ a {
   }
   .reveal-image-text {
     font-size: 3vw;
-    text-shadow: 0.2vw 0.2vw 0px rgba(255,255,255,0.4);
   }
   .reveal-image-caption {
     font-size: 1.2vw;
