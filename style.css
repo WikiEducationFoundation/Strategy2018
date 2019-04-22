@@ -680,6 +680,13 @@ a {
   margin: 8% 2%;
 }
 
+.strategy-focus-container {
+  position: relative;
+  display: table-row;
+  width: 100%;
+  height: 100%
+}
+
 .three-goals {
   margin: 12% 5%;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
